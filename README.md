@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sam
- <p align="center">
+ <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=kali" />
   </a>
