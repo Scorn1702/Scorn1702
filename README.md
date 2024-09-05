@@ -1,5 +1,7 @@
+<img align="center" alt="Lo-fi Cybersecurity GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTNhMmQ3MzMyZmY1MTBhMWNmZjQ5YzJlN2I0NzBiMzFlMjJmOGEyZSZjdD1n/13HgwGsXF0aiGY/giphy.gif" width="350"/>
+
+
 Hi there, I'm Sam! 👋
-<img align="right" alt="Cybersecurity GIF" src="https://media.giphy.com/media/3o7buirYcmV5nSwIRW/giphy.gif" width="350"/>
 
 👾 Cybersecurity Enthusiast | 🛡️ Blue Team Defender | 💻 Software Developer | 📖 Always Learning
 
