@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Scorn1702
 - 👀 I’m interested in CyberSecurity and Software Development
-- 🌱 I’m currently learning CyberSecurity
+- 🌱 I’m currently working in Cybersecurity
 
 
 <!---
