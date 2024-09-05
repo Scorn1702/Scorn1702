@@ -1,4 +1,9 @@
-- 👋 Hi, I’m @Scorn1702
+- 👋 Hi, I’m Sam
+ <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=kali" />
+  </a>
+</p>
 - 👀 I’m interested in CyberSecurity and Software Development
 - 🌱 I’m currently working in Cybersecurity
 
