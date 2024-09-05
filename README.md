@@ -1,8 +1,10 @@
 Hi there, I'm Sam! 👋
 <img align="right" alt="Cybersecurity GIF" src="https://media.giphy.com/media/3o7buirYcmV5nSwIRW/giphy.gif" width="350"/>
+
 👾 Cybersecurity Enthusiast | 🛡️ Blue Team Defender | 💻 Software Developer | 📖 Always Learning
 
 👀 About Me
+
 🛡️ I'm passionate about Cybersecurity, specializing in Blue Teaming, and defensive hacking techniques.
 🌱 I'm currently working on mastering threat hunting, SIEM tools, and incident response.
 🕵️‍♂️ Exploring the fascinating world of ethical hacking and penetration testing.
@@ -10,6 +12,7 @@ Hi there, I'm Sam! 👋
 📚 Constantly learning new tools and techniques to stay up-to-date in the ever-evolving cybersecurity field.
 
 📜 Certifications & Training
+
 🛡️ CompTIA Security+
 
 🧑‍💻 Connect with Me
