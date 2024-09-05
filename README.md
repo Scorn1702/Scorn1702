@@ -1,5 +1,5 @@
 Hi there, I'm Sam! 👋
-<img align="right" alt="GIF" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" width="350"/>
+<img align="right" alt="Cybersecurity GIF" src="https://media.giphy.com/media/3o7buirYcmV5nSwIRW/giphy.gif" width="350"/>
 👾 Cybersecurity Enthusiast | 🛡️ Blue Team Defender | 💻 Software Developer | 📖 Always Learning
 
 👀 About Me
@@ -9,7 +9,11 @@ Hi there, I'm Sam! 👋
 ⚙️ I also enjoy developing security tools to automate routine tasks and enhance security measures.
 📚 Constantly learning new tools and techniques to stay up-to-date in the ever-evolving cybersecurity field.
 
+📜 Certifications & Training
+🛡️ CompTIA Security+
 
+🧑‍💻 Connect with Me
+<p align="left"> <a href="https://www.linkedin.com/in/samuelcorn/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/> </a
 <!---
 Scorn1702/Scorn1702 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
